@@ -37,8 +37,8 @@ a variety of OS services.
 
 |   |    |
 |---|:---|
-|Module Tutor &nbsp;  | [D aaal](http://computing.northumbria.ac.uk/staff/cgdk2)|
-|Lecturer      | [Alun Moon](https://www.northumbria.ac.uk/about-us/our-staff/m/alun-moon/)|
+|Lecturer &nbsp;  | [Kezhi Wang](http://computing.northumbria.ac.uk/staff/cgdk2)|
+|Lecturer      | [Bo Wei](https://www.northumbria.ac.uk/about-us/our-staff/m/alun-moon/)|
 
 
 ## Teaching Arrangements
